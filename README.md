@@ -15,5 +15,9 @@ Le dossier du manuel d'installation traite notamment de la constitution du jeux 
 L'application est constituée d'un système d'enregistrement de préférence, d'une fenêtre de liste et d'une fenêtre de saisie de l'enregistrement sélectionné dans la liste.
 
 
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Exemple-utilisation-csharp-avec-mysql/blob/master/images/3134.png" width="650" title="Exemple chsarp screenshot 1">
+ </p>
+
 Developpé sous Visual Studio 2019 v16_5_4 avec c#.
 
