@@ -1,5 +1,5 @@
 # Exemple utilisation csharp avec mysql
- Exemple utilisation C# avec mysql
+ Exemple utilisation C# avec mysql : Programme à vocation pedagogique pouvant servir de base au developpement de votre futur application.
  
  C'est une application c sharp standard, un exemple d'utilisation de mysql sous Visual Studio, qui permettra de vous aider dans le développement de vos futures applications gérant des bases mysql / MariaDB.
 
